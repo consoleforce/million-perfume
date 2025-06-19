@@ -131,7 +131,8 @@ const comboConfigs = {
       "Mukhallat Montale ( unisex )",
       "Intoxicated By Kilian ( unisex )",
       "Hibiscus Mahajad Maison Crivelli ( unisex )",
-      "More Than Words Xerojoff ( unisex )"
+      "More Than Words Xerojoff ( unisex )",
+      "Oud Madawi ( unisex )"
     ]
   },
   "combo-million": {
@@ -259,7 +260,8 @@ const comboConfigs = {
       "Mukhallat Montale ( unisex )",
       "Intoxicated By Kilian ( unisex )",
       "Hibiscus Mahajad Maison Crivelli ( unisex )",
-      "More Than Words Xerojoff ( unisex )"
+      "More Than Words Xerojoff ( unisex )",
+      "Oud Madawi ( unisex )"
     ]
   },
   "student-combo": {
@@ -387,7 +389,8 @@ const comboConfigs = {
       "Mukhallat Montale ( unisex )",
       "Intoxicated By Kilian ( unisex )",
       "Hibiscus Mahajad Maison Crivelli ( unisex )",
-      "More Than Words Xerojoff ( unisex )"
+      "More Than Words Xerojoff ( unisex )",
+      "Oud Madawi ( unisex )"
     ]
   }
 };
